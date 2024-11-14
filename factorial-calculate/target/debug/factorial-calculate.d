@@ -1,0 +1,1 @@
+/home/mrmemo-dev/workspace/practice/rust/100-exercise-rust/factorial-calculate/target/debug/factorial-calculate: /home/mrmemo-dev/workspace/practice/rust/100-exercise-rust/factorial-calculate/src/main.rs
