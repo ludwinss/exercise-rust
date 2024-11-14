@@ -1,0 +1,1 @@
+/home/mrmemo-dev/workspace/practice/rust/100-exercise-rust/temperature-convert/target/debug/temperature-convert: /home/mrmemo-dev/workspace/practice/rust/100-exercise-rust/temperature-convert/src/main.rs
